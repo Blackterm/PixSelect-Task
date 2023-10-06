@@ -1,4 +1,4 @@
-# task_octohaus
+# task_pixselect
 
 This project has been prepared for [PixSelect](https://www.pixselect.com.tr/) company.
 This project was developed with Vue 3.
